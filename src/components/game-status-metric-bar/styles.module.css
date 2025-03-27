@@ -1,0 +1,11 @@
+.metricBar > div:first-child > div {
+  background: linear-gradient(0deg, #33353c 0%, #090c0d 100%);
+}
+
+.metricBar > div:first-child > div > div {
+  background: linear-gradient(90.14deg, #00ffe7 -1.87%, #051ad9 52.06%);
+}
+
+.metricBar p {
+  text-shadow: 1px 1px 2px #000000;
+}

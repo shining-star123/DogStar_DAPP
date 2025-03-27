@@ -1,0 +1,40 @@
+.container {
+  background: linear-gradient(
+    0deg,
+    #131212 13.23%,
+    #666666 73.31%,
+    #4d4d4d 90.26%
+  );
+}
+
+.container > div {
+  /* background: linear-gradient(0deg, #131212 13.23%, #666666 73.31%, #4D4D4D 90.26%); */
+  /* background: linear-gradient(180deg, #020202 -12.72%, #E9E9E9 63.13%); */
+  /* background-blend-mode: multiply; */
+  background: #1a1a1a;
+}
+
+.livebar > div {
+  height: 100%;
+  width: 100%;
+  border-radius: 8px;
+}
+.livebar > div:first-child {
+  background: linear-gradient(3.62deg, #35000e -53.61%, #ffffff 59.81%);
+  background-blend-mode: overlay;
+  opacity: 0.7;
+  height: 8px;
+  /* opacity: 0.77px; */
+  mix-blend-mode: overlay;
+}
+.livebar > div:nth-child(2) {
+  background: linear-gradient(355.69deg, #35000e -22.25%, #ffffff 51.66%);
+  background-blend-mode: multiply;
+  opacity: 0.77;
+  mix-blend-mode: overlay;
+}
+.livebar > div:nth-child(3) {
+  /* background: linear-gradient(355.69deg, #35000E -22.25%, #FFFFFF 51.66%);
+  background-blend-mode: multiply; */
+  background: linear-gradient(89.96deg, #ff000e 8.88%, #24ff87 38.7%);
+}

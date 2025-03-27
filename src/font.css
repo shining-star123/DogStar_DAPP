@@ -1,0 +1,156 @@
+@font-face {
+  font-family: 'Core Sans C';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc15.otf')
+    format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C Italic';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc15it.otf')
+    format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc25.otf')
+    format('opentype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C Italic';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc25it.otf')
+    format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc35.otf')
+    format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C Italic';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc35it.otf')
+    format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc45.otf')
+    format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C Italic';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc45it.otf')
+    format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Core Sans C';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc55.otf')
+    format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C Italic';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc55it.otf')
+    format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc65.otf')
+    format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C Italic';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc65it.otf')
+    format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc75.otf')
+    format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C Italic';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc75it.otf')
+    format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc85.otf')
+    format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C Italic';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc85it.otf')
+    format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc95.otf')
+    format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Core Sans C Italic';
+  src: url('./assets/font/Core-Sans-C/Fontspring-DEMO-coresansc95it.otf')
+    format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NCL Robowapix';
+  src: url('./assets/font/NCL-Robowapix/NCLRobowapix-Regular.otf')
+    format('opentype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NCL Robowapix Mecha';
+  src: url('./assets/font/NCL-Robowapix/NCLRobowapix-Mecha.otf')
+    format('opentype');
+  font-style: normal;
+}

@@ -1,0 +1,10 @@
+.round {
+  background-image: url('../../assets/images/round-indicator-bg.svg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.round h2 {
+  writing-mode: vertical-rl;
+  color: #262627;
+}

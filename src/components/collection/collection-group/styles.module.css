@@ -1,0 +1,22 @@
+.collection_group {
+}
+.collection_group_level_border::before {
+  content: '';
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  top: -10px;
+  left: -3px;
+  box-shadow: 0px 0px 4px 2px #00ff00;
+  background-color: #00ff00;
+  border-radius: 7px;
+  padding: 3px;
+}
+
+@media screen and (max-width: 768px) {
+  .collection_group_level_border::before {
+    position: absolute;
+    top: 10px;
+  }
+  
+}

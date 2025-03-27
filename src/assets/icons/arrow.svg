@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="60" fill="currentColor">
+  <path
+    id="arrow"
+    stroke-width="0"
+    fill="#ff223b"
+    d="m30.93384,29.93471l-28.00326,-27.00002l12.3705,0l28.00326,27.00002l-28.00326,26.99998l-12.3705,0l28.00326,-26.99998z"
+  />
+</svg>
